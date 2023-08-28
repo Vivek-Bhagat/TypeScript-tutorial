@@ -6,4 +6,6 @@ let num = 7;
 //num.toUppercase()
 Greetings.toUpperCase();
 console.log(Greetings)
-export {}
+
+
+export {} // used error temporaly from the code of the line
